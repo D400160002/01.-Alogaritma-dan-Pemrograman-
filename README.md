@@ -1,0 +1,2 @@
+# 01.-Alogaritma-dan-Pemrograman-
+Pengenalan alogaritma 1. Flowchart(diagram alir) = simbol /grafik, tetapi dalam bahasa pemrograman flowchart adalah untuk membantu memahami nalar suatu progrman digunaka grafik/simbol yang mengekspresikan kegiatan-kegiatan dalam sebuah program. 2.Pseudocode berasal dari kata pseudo dan code yang artnya kode semu atau menyerupai kode pemrograman sebenarnya. jadi pseudocode adalah bukan lah kode pemrograman yang sebenarnya ,melainkan mengunakan suatu bahasa pemrograman tertentu.
